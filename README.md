@@ -1,3 +1,5 @@
+Mention "Oranges" in your application so I know you looked at the code base :)
+
 # Barchart HTML5 chart SDK
 
 ## The contents of the package
